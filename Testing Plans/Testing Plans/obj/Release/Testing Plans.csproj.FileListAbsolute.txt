@@ -1,0 +1,55 @@
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Testing Plans.dll.config
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Testing Plans.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Testing Plans.pdb
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Antlr3.Runtime.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\EntityFramework.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\EntityFramework.SqlServer.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Newtonsoft.Json.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Owin.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Helpers.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Mvc.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Optimization.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Razor.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.WebPages.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\WebGrease.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Helpers.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Mvc.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Optimization.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.Razor.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.WebPages.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Antlr3.Runtime.pdb
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Newtonsoft.Json.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\EntityFramework.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\EntityFramework.SqlServer.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\obj\Release\Testing Plans.csprojResolveAssemblyReference.cache
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\obj\Release\Testing Plans.dll
+C:\Users\Aman\Desktop\Current Happenings\KnowItProveIt\Cloud Development\Developing Microsoft Azure Solutions\Testing Plans\Testing Plans\obj\Release\Testing Plans.pdb
